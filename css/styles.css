@@ -45,6 +45,7 @@ body{
 }
 
 #submit{
+    outline: none;
     position: relative;
     left: 17%;
     background-color: #161925;
